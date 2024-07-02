@@ -1,0 +1,8 @@
+../Core/Src/main.c:72:5:main	8
+../Core/Src/main.c:166:6:SystemClock_Config	4
+../Core/Src/main.c:209:13:MX_LPUART1_UART_Init	2
+../Core/Src/main.c:231:13:MX_GPIO_Init	1
+../Core/Src/main.c:239:23:protimer_event_dispatcher	2
+../Core/Src/main.c:263:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:271:5:millis	1
+../Core/Src/main.c:280:6:Error_Handler	1

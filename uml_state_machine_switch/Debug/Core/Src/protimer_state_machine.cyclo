@@ -1,0 +1,7 @@
+../Core/Src/protimer_state_machine.c:21:6:protimer_init	1
+../Core/Src/protimer_state_machine.c:30:16:protimer_state_machine	5
+../Core/Src/protimer_state_machine.c:47:23:protimer_state_handler_IDLE	6
+../Core/Src/protimer_state_machine.c:87:23:protimer_state_handler_TIME_SET	9
+../Core/Src/protimer_state_machine.c:196:23:protimer_state_handler_COUNTDOWN	7
+../Core/Src/protimer_state_machine.c:273:23:protimer_state_handler_PAUSE	10
+../Core/Src/protimer_state_machine.c:323:13:display_time	1

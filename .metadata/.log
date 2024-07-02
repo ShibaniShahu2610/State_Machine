@@ -142,3 +142,18 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.cdt.managedbuilder.co
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-07-02 15:07:02.893
 !MESSAGE Indexed 'FreeRTOS_Task_States' (35 sources, 147 headers) in 11.3 sec: 16,289 declarations; 85,822 references; 3 unresolved inclusions; 156 syntax errors; 172 unresolved names (0.17%)
+!SESSION 2024-07-02 16:15:22.980 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-07-02 16:15:32.959
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-07-02 16:15:32.961
+!MESSAGE Log4j2 initialized with config file /home/dnk121/Shibani/WORKSPACE0/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-07-02 16:15:39.318
+!MESSAGE Started RMI Server, listening on port 41337
